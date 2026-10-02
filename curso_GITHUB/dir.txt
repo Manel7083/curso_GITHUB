@@ -1,0 +1,1 @@
+dir = diretorio, para você todos os arquivos que tem na pasta atual
